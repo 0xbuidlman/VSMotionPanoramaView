@@ -12,6 +12,7 @@ This enables you to show Google Street View map images using the device motion w
 ## Example project
 * Clone this repository.
 * Execute pod install (to download <a href="https://developers.google.com/maps/documentation/ios/start">GoogleMaps SDK</a>).
+* Open VSMotionPanoramaViewExample.xcworkspace.
 * Configure your <a href="https://developers.google.com/maps/documentation/ios/start#step_5_get_an_ios_api_key">Google Maps Api Key</a> in AppDelegate.m.
 * Run it on your device.
 
