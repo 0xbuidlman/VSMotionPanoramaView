@@ -1,7 +1,7 @@
 ## Introduction
-Because Google Maps (<a href="https://developers.google.com/maps/documentation/ios/reference/interface_g_m_s_panorama_view">GMSPanoramaView</a>) does not have support for motion device, we decided to implement VSMotionPanoramaView.
+Because Google Maps (<a href="https://developers.google.com/maps/documentation/ios/reference/interface_g_m_s_panorama_view">GMSPanoramaView</a>) does not have support for device motion, we decided to implement VSMotionPanoramaView.
 
-VSMotionPanoramaView inherits from Panorama View to add motion device support. 
+VSMotionPanoramaView inherits from Panorama View to support device motion. 
 
 This enables you to show Google Street View map images using the device motion without touching the screen.
 
